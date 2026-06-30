@@ -8,8 +8,8 @@
 
 }
 @font-face {
-    font-family: "rewelye";
-    src: url(./fonts/rewelye);
+    font-family: "raleway";
+    src: url(./fonts/Raleway-VariableFont_wght.ttf);
 }
 .color-6-t{
     color: var(--color-6) !important;
@@ -23,7 +23,7 @@ color: var(--color-5);
 }
 
 .font{
-    font-family: rewelye;
+    font-family: raleway;
 }
 .lh150{
     line-height: 150%;
